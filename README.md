@@ -14,5 +14,5 @@
 - Java для тестировщиков [cертификат](https://netology.ru/backend/api/user/programs/30380/pdf_certificate)
 
 ## Социальные сети
-Телеграм: @alexchb1
-WhatsApp: 89637616584
+- Телеграм: @alexchb1
+- WhatsApp: 89637616584
